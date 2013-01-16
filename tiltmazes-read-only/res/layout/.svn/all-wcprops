@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/48/trunk/res/layout
+END
+game_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/41/trunk/res/layout/game_layout.xml
+END
+about_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/33/trunk/res/layout/about_layout.xml
+END
+select_maze_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/48/trunk/res/layout/select_maze_layout.xml
+END
+select_maze_row_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/48/trunk/res/layout/select_maze_row_layout.xml
+END

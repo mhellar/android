@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TextNotification</string>
+    <string name="notify_with_text_long_notify_text">Show Long Notification</string>
+    <string name="notify_with_text_short_notify_text">Show Short Notification</string>
+    <string name="short_notification_text">Short notification</string>
+    <string name="long_notification_text">This is a long notification.  See, you might need a second more to read it.</string>
+    
+</resources>
